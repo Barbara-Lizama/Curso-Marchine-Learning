@@ -4,3 +4,4 @@ Con un data set de la poblacion de una ciudad y las ganancias de los food truck 
 Se utilizo: 
 - Funcion objetivo
 - Funcion de costos
+- Normalizacion
